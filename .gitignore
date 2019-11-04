@@ -1,0 +1,4 @@
+.idea
+coursier
+scalafmt
+scalafix
