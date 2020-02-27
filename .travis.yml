@@ -50,7 +50,7 @@ jobs:
           target_branch: master
           local_dir: sbt-fix
           repo: alejandrohdezma/sbt-fix
-          commit_message: "Uploading sbt-fix-defaults version"
+          commit_message: "Upgrade sbt-fix-defaults version"
           on:
             tags: true
 
