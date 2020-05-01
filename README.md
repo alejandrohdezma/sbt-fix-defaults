@@ -1,6 +1,1 @@
-# Default configurations for [sbt-fix]()
-
-[![][travis-badge]][travis] 
-
-[travis]: https://travis-ci.com/alejandrohdezma/sbt-fix-defaults
-[travis-badge]: https://travis-ci.com/alejandrohdezma/sbt-fix-defaults.svg?branch=master
+# :exclamation: This repository has been deprecated. Please use [sbt-scalafix-defaults](https://github.com/alejandrohdezma/sbt-scalafix-defaults) and [sbt-scalafmt-defaults](https://github.com/alejandrohdezma/sbt-scalafmt-defaults) instead.
